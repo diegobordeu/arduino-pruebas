@@ -1,2 +1,2 @@
 # arduino-pruebas 
-esto es para aprender a hacer la wea
+aca voy a subir todas las weas que aga en arduino y esas mierdas, para que otros brothers la puedan usar!
